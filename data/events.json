@@ -1,0 +1,1 @@
+[null,{"name":"Get1000Members","temp":"wmsg","event-type":"6","actions":[{"channel":"4","varName":"","message":"Welcome ${tempVars(\"wmsg\")}","storage":"0","varName2":"","name":"Send Message"}]}]
